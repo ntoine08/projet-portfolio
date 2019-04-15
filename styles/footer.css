@@ -1,0 +1,28 @@
+footer {
+  text-align: center;
+  background-color: #000;
+  height: 25em;
+  color: #fff;
+  text-shadow: 0px 0px 2px #000, 0px 0px 5px #fff;
+  font-family: Arial;
+}
+.grille {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.about {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#logofoot{
+  margin-top: 1em;
+}
+#input{
+  width: 20em;
+  margin-bottom: 1em;
+  box-shadow: 0px 0px 2px #000, 0px 0px 5px #fff;
+}
+textarea{
+  box-shadow: 0px 0px 2px #000, 0px 0px 5px #fff;
+}
