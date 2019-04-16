@@ -16,28 +16,33 @@
   display: grid;
   grid-template-columns: 50% 50%;
 }
-/* css du titre de la partie de gauche */
+/* css du titre de la partie de gauche + logo */
 .titre {
   display: flex;
   flex-direction: row;
   justify-content: center;
-}
-/* css du texte de gauche */
-.presentation {
-  text-align: center;
-}
-/* css pour le logo du footer */
-#logofoot{
   margin-top: 1em;
 }
+/* css du texte de gauche */
+.présentation {
+  text-align: center;
+  padding: 1em 1em;
+}
 /*css de la partie formulaire de contact */
+.contact {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
 #input{
   width: 20em;
+  margin-top: 1em;
   margin-bottom: 1em;
   box-shadow: 0px 0px 2px #000, 0px 0px 5px #fff;
 }
 textarea{
   box-shadow: 0px 0px 2px #000, 0px 0px 5px #fff;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 /* css du deuxième footer */
 #two {
