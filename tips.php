@@ -18,7 +18,7 @@
       <img src="images/tips.png" alt="à définir"/>
     </span>
     <span class="item">
-      <img src="images/tips.png" alt="à définir"/>
+      <img src="images/test.jpg" alt="à définir"/>
     </span>
     <span class="item">
       <img src="images/tips.png" alt="à définir"/>

@@ -17,6 +17,6 @@
   border: 0.5em solid #000;
   margin: 1em 1em;
   width: 20em;
-  height: 12em; 
-  overflow: hidden;
+  height: 12em;
+  overflow: scroll;
 }
