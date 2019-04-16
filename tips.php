@@ -11,6 +11,30 @@
     <!-- à remplacer pas le vrais header ensuite -->
   </div>
   <div class="gallerie">
+    <span class="item">
+      <img src="images/tips.png" alt="à définir"/>
+    </span>
+    <span class="item">
+      <img src="images/tips.png" alt="à définir"/>
+    </span>
+    <span class="item">
+      <img src="images/tips.png" alt="à définir"/>
+    </span>
+    <span class="item">
+      <img src="images/tips.png" alt="à définir"/>
+    </span>
+    <span class="item">
+      <img src="images/tips.png" alt="à définir"/>
+    </span>
+    <span class="item">
+      <img src="images/tips.png" alt="à définir"/>
+    </span>
+    <span class="item">
+      <img src="images/tips.png" alt="à définir"/>
+    </span>
+    <span class="item">
+      <img src="images/tips.png" alt="à définir"/>
+    </span>
     </div>
 </body>
 <footer>

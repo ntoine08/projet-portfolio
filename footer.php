@@ -12,6 +12,8 @@
         <p>Simplon Charleville-Mézières est une formation portée par la CCI
           Ardennes.</br> La Fabrique a ouvert ses portes en avril 2017 dans
           les locaux de la CCI, <br/> à proximité immédiate de la gare.</p>
+          <img src="images/simplonpolyblanc.png" alt="logo de simplon"
+          width="250em" height="200em"/>
       </div>
     </div>
     <div class="contact">
