@@ -9,7 +9,7 @@
    <button href="#qui-je-suis" class="btn2">Qui Suis Je ?</button>
    <button href="#parcours" class="btn3">Parcours</button>
    <button href="#projets" class="btn4">Mes Projets</button>
-   <button href="#tips" class="btn5">Mes Tips</button>
+   <button href="#tips" class="btn5">Mes Tips .</button>
    </div>
 </div>
 </ul>
