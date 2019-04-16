@@ -6,6 +6,9 @@ ul{
   z-index: 10;
   display: grid;
   grid-template-columns: 40% 60%;
+  margin-bottom: 1em;
+  margin-top: 0;
+  padding: 0;
 }
 
 

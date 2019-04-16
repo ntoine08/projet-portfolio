@@ -8,9 +8,9 @@
     <title>TITRE</title>
   </head>
 
-<!-- <?php include "header.php";?> -->
 
   <body>
+<?php include "header.php";?>
 <center>
   <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
   <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
