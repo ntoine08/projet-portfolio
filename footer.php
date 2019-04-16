@@ -26,7 +26,7 @@
         <input id="input" type="text" name="objet"
           value="Objet de votre demande" class="object"><br/>
         <textarea name="message"
-          rows="8" cols="42em">Tapez votre message ici !!</textarea>
+          rows="8" cols="43em">Tapez votre message ici !!</textarea>
       </form>
     </div>
   </div>
