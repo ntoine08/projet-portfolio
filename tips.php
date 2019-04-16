@@ -8,7 +8,7 @@
 <html>
 <body>
   <div class="header">
-    <!-- à remplacer pas le vrais header ensuite -->
+    <?php include 'header.php' ?>
   </div>
   <div class="gallerie">
     <span class="item">

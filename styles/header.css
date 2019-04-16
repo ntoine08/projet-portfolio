@@ -1,0 +1,77 @@
+ul{
+  background-color: red;
+  width: 100%;
+  border: none;
+  position:fixed;
+  z-index: 10;
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+
+
+
+/*bouton de la barre nav avec un hover */
+.nav{
+  display:flex;
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin: 1em 2em;
+  width: 20em;
+  height: 2em;
+}
+.btn1{
+  border: none;
+  background-color: red;
+  cursor: pointer;
+  margin-right: 6em;
+}
+.btn1:hover{
+  color: white;
+}
+
+
+.btn2{
+  border: none;
+  background-color: red;
+  cursor: pointer;
+  margin-right: 7em;
+}
+.btn2:hover{
+  color: white;
+}
+
+
+.btn3{
+  border: none;
+  background-color: red;
+  cursor: pointer;
+  margin-right: 6em;
+}
+.btn3:hover{
+  color: white;
+}
+
+
+.btn4{
+  border: none;
+  background-color: red;
+  cursor: pointer;
+  margin-right: 5em;
+
+}
+.btn4:hover{
+  color: white;
+}
+
+
+.btn5{
+  border: none;
+  background-color: red;
+  cursor: pointer;
+  margin-right: 5em;
+
+}
+.btn5:hover{
+  color: white;
+}
