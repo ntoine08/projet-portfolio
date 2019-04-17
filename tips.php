@@ -38,7 +38,9 @@
     </div>
     <input id="affiche" type="button" value="Afficher !!"/>
     <!-- Modal part -->
-    <div class="pop-tips"></div>
+    <div class="pop-tips">
+      <div class="frame"></div>
+    </div>
     <script type="text/javascript" src="styles/jquery.js"></script>
     <script type="text/javascript" src="styles/tips.js"></script>
 </body>
