@@ -11,20 +11,21 @@
 
   <body>
 <?php include "header.php";?>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>-
 
 <div class="parallax-window" data-parallax="scroll" data-image-src="images/projets2.png" alt=""></div>
 <center>
-  <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
+  <div id="proj">
+  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
   <br>
 
-  <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
+  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a></div>
   <br><br>
   <div class="bouton">
   <p>
