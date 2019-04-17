@@ -49,7 +49,8 @@
 		</div>
 
 <br>
-<div class="parallax-window" data-parallax="scroll" data-image-src="images/projets2.png" alt=""></div>
+<div class="parallax-projet" data-parallax="scroll" data-image-src="images/para.png" alt="">
+  MES PROJETS</div>
 <center>
   <div id="proj">
   <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
@@ -61,15 +62,17 @@
   <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
   <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
   <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a></div>
+  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
   <br><br>
   <div class="bouton">
   <p>
     <a href="#">ALL »</a>
   </p>
+</div>
 </div><br><br>
 
-<div class="parallax-window" data-parallax="scroll" data-image-src="images/tips2.png" alt=""></div>
+<div class="parallax-tip" data-parallax="scroll" data-image-src="images/para.png" alt="">
+MES TIPS</div>
 
 <div id="proj">
   <a href="#"><img src="images/logosimplon.png" width="350px"></a>
@@ -81,12 +84,13 @@
   <a href="#"><img src="images/logosimplon.png" width="350px"></a>
   <a href="#"><img src="images/logosimplon.png" width="350px"></a>
   <a href="#"><img src="images/logosimplon.png" width="350px"></a>
-  <a href="#"><img src="images/logosimplon.png" width="350px"></a></div>
+  <a href="#"><img src="images/logosimplon.png" width="350px"></a>
   <br><br>
   <div class="bouton">
   <p>
     <a href="#">ALL »</a>
   </p>
+</div>
 </div>
 
 </center>

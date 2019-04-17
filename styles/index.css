@@ -32,14 +32,29 @@ border-radius: 100px;
 background-color: #f74c3c;
 }
 
-.parallax-window {
+.parallax-projet {
+  min-height: 30vh;
+  background: transparent;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 50px;
+ }
+
+ .parallax-tip {
    min-height: 30vh;
    background: transparent;
- }
+   text-align: center;
+   padding: 100px;
+   font-size: 50px;
+  }
 
 #proj img {
   margin: 10px;
   margin-top: 30px;
+}
+
+#proj {
+  margin-bottom: 10px;
 }
 
 /* CSS DE JEREM */
@@ -52,31 +67,6 @@ background-color: #f74c3c;
 img
 {
   vertical-align: middle;
-}
-
-/* css de la navbarre*/
-
-.navbarre ul
-{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: black;
-}
-
-.navbarre ul li
-{
-    float: left;
-}
-
-.navbarre ul li a
-{
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
 }
 
 /* css du slide*/
@@ -149,4 +139,22 @@ img
     margin-top: 20px;
     width: 300px;
   }
+
+  .parallax-projet {
+    min-height: 30px;
+    background: transparent;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    font-size: 30px;
+   }
+
+   .parallax-tip {
+     min-height: 30px;
+     background: transparent;
+     text-align: center;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     font-size: 30px;
+    }
  }
