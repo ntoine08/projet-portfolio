@@ -2,7 +2,7 @@
 <ul>
    <div id="main">
           <nav>
-            <img src="images/logosimplon.png" width="80px" height="80px;">
+            <img src="images/blanc.png" width="80px" height="80px;">
                <ul>
                     <li><a href="#">Acceuil</a></li>
                     <li><a href="#">Qui Suis Je ?</a></li>
