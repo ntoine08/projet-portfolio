@@ -9,7 +9,7 @@
 <body>
   <div class="header">
     <?php include 'header.php' ?>
-  </div>
+  </div> 
   <div class="gallerie">
     <span class="item">
       <img src="images/tips.png" alt="à définir"/>
@@ -36,6 +36,8 @@
       <img src="images/tips.png" alt="à définir"/>
     </span>
     </div>
+    <!-- Modal part -->
+    <div class="pop-tips"></div>
 </body>
 <footer>
   <?php include 'footer.php' ?>
