@@ -15,6 +15,7 @@ html, body {
   margin: 0;
 }
 
+/* Bouton "all" */
 .bouton a {
 display:block;
 width:200px;
@@ -31,7 +32,9 @@ border-radius: 100px;
 .bouton a:hover {
 background-color: #f74c3c;
 }
+/* Fin des boutons "all" */
 
+/* parallax Projet et Tips */
 .parallax-projet {
   min-height: 30vh;
   background: transparent;
@@ -47,7 +50,9 @@ background-color: #f74c3c;
    padding: 100px;
    font-size: 50px;
   }
+/* Fin des parallax */
 
+/* Mise en forme des 8 screens de projets et tips */
 #proj img {
   margin: 10px;
   margin-top: 30px;
@@ -56,6 +61,7 @@ background-color: #f74c3c;
 #proj {
   margin-bottom: 10px;
 }
+/* Fin de la mise en forme */
 
 /* CSS DE JEREM */
 
@@ -131,15 +137,18 @@ img
     from {opacity: .4}
     to {opacity: 1}
   }
-
 /* FIN DU CSS DE JEREM */
 
+/* Responsivité */
 @media (max-width:767px) {
+  /* Responsivité des 8 screens de projets et tips */
   #proj img {
     margin-top: 20px;
     width: 300px;
   }
+  /* Fin de la mise en forme des 8 screens */
 
+  /* parallax */
   .parallax-projet {
     min-height: 30px;
     background: transparent;
@@ -157,4 +166,6 @@ img
      padding-bottom: 10px;
      font-size: 30px;
     }
+    /* Fin de la parallax */
  }
+/* Fin de la section de Responsivité */
