@@ -1,5 +1,5 @@
 ul{
-  background-color: red;
+  background-color: #f74c3c;
   width: 100%;
   border: none;
   position:fixed;
@@ -25,7 +25,7 @@ ul{
 }
 .btn1{
   border: none;
-  background-color: red;
+  background-color: #f74c3c;
   cursor: pointer;
   margin-right: 6em;
 }
@@ -36,7 +36,7 @@ ul{
 
 .btn2{
   border: none;
-  background-color: red;
+  background-color: #f74c3c;
   cursor: pointer;
   margin-right: 7em;
 }
@@ -47,7 +47,7 @@ ul{
 
 .btn3{
   border: none;
-  background-color: red;
+  background-color: #f74c3c;
   cursor: pointer;
   margin-right: 6em;
 }
@@ -58,7 +58,7 @@ ul{
 
 .btn4{
   border: none;
-  background-color: red;
+  background-color: #f74c3c;
   cursor: pointer;
   margin-right: 5em;
 
@@ -70,7 +70,7 @@ ul{
 
 .btn5{
   border: none;
-  background-color: red;
+  background-color: #f74c3c;
   cursor: pointer;
   margin-right: 5em;
 
