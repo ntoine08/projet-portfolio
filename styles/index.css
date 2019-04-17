@@ -36,3 +36,15 @@ background-color: #f74c3c;
    min-height: 30vh;
    background: transparent;
  }
+
+#proj img {
+  margin: 10px;
+  margin-top: 20px;
+}
+
+@media (max-width:767px) {
+  #proj img {
+    margin-top: 20px;
+    width: 300px;
+  }
+ }
