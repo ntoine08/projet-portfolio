@@ -2,7 +2,7 @@
 <div class="grille1">
 <ul>
   <div class="img">
-   <img src="images/logosimplon.png" height="50em" width="50em" alt="" />
+   <img src="images/logosimplon.png" height="75em" width="75em" alt="" />
   </div>
    <div class="nav">
    <button href="#Acceuil" class="btn1">Acceuil</button>

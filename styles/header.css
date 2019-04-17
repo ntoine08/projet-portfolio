@@ -12,16 +12,18 @@ ul{
 }
 
 
-
+.img{
+  margin: 0em 5em ;
+}
 /*bouton de la barre nav avec un hover */
 .nav{
   display:flex;
   justify-content: right;
   flex-direction: row;
   flex-wrap: nowrap;
-  margin: 1em 2em;
+  margin: 1em;
   width: 20em;
-  height: 2em;
+  height: 3em;
 }
 .btn1{
   border: none;
@@ -38,7 +40,8 @@ ul{
   border: none;
   background-color: #f74c3c;
   cursor: pointer;
-  margin-right: 7em;
+  margin: 0em 7em 0em 1em;
+  padding: 0;
 }
 .btn2:hover{
   color: white;
