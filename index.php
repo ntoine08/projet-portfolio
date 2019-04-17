@@ -8,9 +8,12 @@
     <title>TITRE</title>
   </head>
 
- 
+
   <body>
 <?php include "header.php";?>
+<br><br><br><br><br><br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d
+
+<div class="parallax-window" data-parallax="scroll" data-image-src="images/projets2.png" alt=""></div>
 <center>
   <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
   <a href="#"><img src="images/aa_auto.png" width="350px" height="200px"></a>
