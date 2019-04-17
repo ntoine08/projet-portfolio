@@ -11,7 +11,7 @@
 
   <body>
 <?php include "header.php";?>
-<br><br><br><br><br><br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d<br>d
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div class="parallax-window" data-parallax="scroll" data-image-src="images/projets2.png" alt=""></div>
 <center>
