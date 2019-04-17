@@ -20,13 +20,13 @@
       <form>
         <h1 id="shadow">Nous contacter</h1>
         <input id="input" type="text" name="name"
-          value="NOM et prénom" class="name"><br/>
+          required placeholder="NOM et prénom" class="name"><br/>
         <input id="input" type="email" name="mail"
-          value="Adresse email"><br/>
+          required placeholder="Adresse email"><br/>
         <input id="input" type="text" name="objet"
-          value="Objet de votre demande" class="object"><br/>
+          required placeholder="Objet de votre demande" class="object"><br/>
         <textarea name="message"
-          rows="8" cols="43em">Tapez votre message ici !!</textarea>
+          rows="8" cols="43em" required placeholder="Tapez votre message ici !!"></textarea>
       </form>
     </div>
   </div>
