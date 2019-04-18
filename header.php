@@ -5,7 +5,7 @@
 <!--Barre nav avec images-->
    <div id="main">
           <nav id="nav">
-            <img src="images/blanc.png" width="80px" height="80px;">
+            <div class="img"><img src="images/blanc.png" width="80px" height="80px;"></div>
                <ul>
                     <li><a href="#">Acceuil</a></li>
                     <li><a href="#">Qui Suis Je ?</a></li>
