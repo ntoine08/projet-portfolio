@@ -155,6 +155,36 @@ h3
 
 .qui img
 {
-  width: 100%;
+  width: 100%; /* permet à l'image d'être dans le bloc */
   height: auto;
+}
+
+/* css de la partie parcours */
+
+#parcours
+{
+  position: relative;
+  margin: 10px;
+  padding: 30px;
+  border: 2px solid red;
+}
+
+h4
+{
+  text-align: center;
+  font-size: 40px;
+  
+}
+
+h5
+{
+  text-align: center;
+  font-size: 30px;
+}
+
+hr
+{
+  height: 3px;
+  border-color: red;
+  background-color: red;
 }

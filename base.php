@@ -84,6 +84,12 @@
 		<!-- paralax-->
 
 		<!-- parcours-->
+		<div id="parcours">
+			<h4>PARCOURS</h4> <!--titre parcours-->
+			<hr>
+			<h5>TIMELINE</h5> <!--titre timeline-->
+
+		</div>
 
 		<!-- mes projets-->
 	 
