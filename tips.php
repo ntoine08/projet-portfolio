@@ -12,6 +12,9 @@
   <div class="header">
     <?php include 'header.php' ?>
   </div>
+  <div class="block">
+
+  </div>
   <div class="gallerie">
     <span id="item">
       <img src="images/tips.png" alt="à définir"/>
