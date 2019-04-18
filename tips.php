@@ -9,7 +9,7 @@
 <body>
   <div class="header">
     <?php include 'header.php' ?>
-  </div> 
+  </div>
   <div class="gallerie">
     <span class="item">
       <img src="images/tips.png" alt="à définir"/>
@@ -36,8 +36,13 @@
       <img src="images/tips.png" alt="à définir"/>
     </span>
     </div>
+    <input id="affiche" type="button" value="Afficher !!"/>
     <!-- Modal part -->
-    <div class="pop-tips"></div>
+    <div class="pop-tips">
+      <div class="frame"></div>
+    </div>
+    <script type="text/javascript" src="styles/jquery.js"></script>
+    <script type="text/javascript" src="styles/tips.js"></script>
 </body>
 <footer>
   <?php include 'footer.php' ?>
