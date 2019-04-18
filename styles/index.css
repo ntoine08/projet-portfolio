@@ -185,6 +185,37 @@ h3
   width: 100%;
   height: auto;
 }
+
+/* css de la partie parcours */
+#parcours
+{
+  position: relative;
+  margin: 10px;
+  padding: 30px;
+  border: 2px solid red;
+}
+
+h4
+{
+  text-align: center;
+  font-size: 40px;
+
+}
+
+h5
+{
+  text-align: center;
+  font-size: 30px;
+}
+
+hr
+{
+  height: 3px;
+  border-color: red;
+  background-color: red;
+}
+/* fin de la partie parcours */
+
 /* FIN DU CSS DE JEREM */
 
 /* Responsivité */
@@ -242,12 +273,12 @@ h3
 #menu li {
   right: 50%;
   padding: 20px;
-  padding-right: 50px;
-  padding-left: 50px;
+  padding-right: 100px;
+  padding-left: 100px;
 }
 
 .parallax-element {
-  min-height: 35vh;
+  min-height: 30vh;
   background: transparent;
   text-align: center;
  }

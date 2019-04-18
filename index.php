@@ -77,27 +77,27 @@
        <div id="ico">
          <div id="wrapper">
            <ul id="menu">
-     <li><center><i class="fas fa-user fa-stack fa-inverse fa-4x"></i></i><br>
+     <li><center><i class="fas fa-user fa-stack fa-4x"></i></i><br>
      <h4>100 %</h4></li>
-     <li><center><i class="fas fa-user fa-stack fa-inverse fa-4x"></i></i><br>
+     <li><center><i class="fas fa-user fa-stack fa-4x"></i></i><br>
      <h4>100 %</h4></li>
-     <li><center><i class="fas fa-user fa-stack fa-inverse fa-4x"></i></i><br>
+     <li><center><i class="fas fa-user fa-stack fa-4x"></i></i><br>
      <h4>100 %</h4></li>
-     <li><center><i class="fas fa-user fa-stack fa-inverse fa-4x"></i></i><br>
+     <li><center><i class="fas fa-user fa-stack fa-4x"></i></i><br>
      <h4>100 %</h4></li>
           </ul>
         </div>
        </div>
      </div>
-
-
-
       </div>
-    <!-- Fin du paralax 4 elem -->
 
-<!-- FAKE CONTENU -->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<!-- Fin du FAKE -->
+		<!-- parcours-->
+    <div id="parcours">
+			<h4>PARCOURS</h4> <!--titre parcours-->
+			<hr>
+			<h5>TIMELINE</h5> <!--titre timeline-->
+		</div>
+		<!-- fin de parcours-->
 
 <br>
 
