@@ -63,6 +63,24 @@
 
 		<!-- partie qui suis je-->
 
+		<div id="qui-suis-je">
+			<h3>Qui suis je ?</h3> <!-- titre de la partie qui suis je -->
+
+			<div class="flex-container"> <!-- container de la partie qui suis je -->
+				<div class="qui"> <!-- partie texte de qui suis je -->
+					<p>Un texte est une série orale ou écrite de mots perçus comme constituant un ensemble cohérent, porteur de sens et utilisant les structures propres à une langue (conjugaisons, construction et association des phrases…)1. Un texte n'a pas de longueur déterminée sauf dans le cas de poèmes à forme fixe comme le sonnet ou le haïku. L'étude formelle des textes s'appuie sur la linguistique, qui est l'approche scientifique du langage.</p>
+				</div>
+
+				<div class="qui"> <!-- partie image de qui suis je -->
+					<img src="images2/image1.jpg">
+				</div>
+
+			</div>
+
+
+		
+		</div>
+
 		<!-- paralax-->
 
 		<!-- parcours-->

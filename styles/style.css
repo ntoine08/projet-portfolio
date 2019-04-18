@@ -113,3 +113,25 @@ html, body
     from {opacity: .4} 
     to {opacity: 1}
   }
+
+  /* css de la partie qui suis je*/
+
+#qui-suis-je
+{
+  position: relative;
+  margin: 50px;
+  padding: 30px;
+  
+}
+
+h3
+{
+  
+  
+}
+
+.flex-container
+{
+    position: relative;
+}
+
