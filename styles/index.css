@@ -214,13 +214,18 @@ h3
      padding-bottom: 10px;
      font-size: 30px;
     }
+
+    .parallax-element {
+      padding-bottom: 900px;
+      padding-left: 30px;
+      min-height: 35px;
+      background: transparent;
+      float: left;
+      text-align: center;
+     }
     /* Fin de la parallax */
  }
 /* Fin de la section de Responsivité */
-
-#wrapper {
-  overflow: hidden;
-}
 
 #menu,#menu li {
   margin: 0;
@@ -236,11 +241,13 @@ h3
 
 #menu li {
   right: 50%;
+  padding: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
 .parallax-element {
-  min-height: 30vh;
+  min-height: 35vh;
   background: transparent;
-  float: left;
   text-align: center;
  }

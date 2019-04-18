@@ -77,40 +77,18 @@
        <div id="ico">
          <div id="wrapper">
            <ul id="menu">
-             <li><center><i class="fas fa-user fa-stack fa-inverse fa-5x"></i></i><br>
-               <font color="#d17261"><h3>STUDENTS</h3></font>
-         </p></li>
-         </center>
-       <li>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</li>
-               <li><center><i class="fas fa-pencil-alt fa-stack fa-inverse fa-5x"></i><br>
-                 <font color="#d17261"><h3>EDUCATORS</h3></font>
-               Want to bring this initiative to your<br>
-                school or institution? Awesome! Click<br>
-                 the button below and we'll make it<br>
-                  happen.
-                  <div class="button">
-                    <p>
-                      <a href="#">Join The Initiative »</a>
-                    </p>
-                  </div></li>
-                </center>
-       <li>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</li>
-               <li><center><i class="far fa-money-bill-alt fa-stack fa-inverse fa-5x"></i></i><br>
-                 <font color="#d17261"><h3>SPONSORS</h3></font>
-               We love all the support we get to help<br>
-                host more events, and empower more<br>
-                 lives with the knowledge of coding.<br>
-                  Click to get involved.
-                  <div class="button">
-                    <p>
-                      <a href="#">Give Support »</a>
-                    </p>
-                  </div></center></li>
-             </ul>
-           </div>
-           <br><br><br>
-         </div>
-         </div><!-- /#get-involved -->
+     <li><center><i class="fas fa-user fa-stack fa-inverse fa-4x"></i></i><br>
+     <h4>100 %</h4></li>
+     <li><center><i class="fas fa-user fa-stack fa-inverse fa-4x"></i></i><br>
+     <h4>100 %</h4></li>
+     <li><center><i class="fas fa-user fa-stack fa-inverse fa-4x"></i></i><br>
+     <h4>100 %</h4></li>
+     <li><center><i class="fas fa-user fa-stack fa-inverse fa-4x"></i></i><br>
+     <h4>100 %</h4></li>
+          </ul>
+        </div>
+       </div>
+     </div>
 
 
 
