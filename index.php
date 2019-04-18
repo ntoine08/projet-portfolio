@@ -10,6 +10,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/parallax.js/1.4.2/parallax.min.js"></script>
     <!-- Fin des liens pour parallax -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <title>TITRE</title>
   </head>
 
@@ -50,6 +51,75 @@
     <script src="script.js"></script>
 		</div>
     <!-- Fin du slider -->
+
+    <!-- partie qui suis je-->
+		<div id="qui-suis-je">
+			<h3>Qui suis je ?</h3> <!-- titre de la partie qui suis je -->
+
+			<div class="flex-container"> <!-- container de la partie qui suis je -->
+				<div class="qui"> <!-- partie texte de qui suis je -->
+					<p>Un texte est une série orale ou écrite de mots perçus comme constituant un ensemble cohérent, porteur de sens et utilisant les structures propres à une langue (conjugaisons, construction et association des phrases…)1. Un texte n'a pas de longueur déterminée sauf dans le cas de poèmes à forme fixe comme le sonnet ou le haïku. L'étude formelle des textes s'appuie sur la linguistique, qui est l'approche scientifique du langage.</p>
+				</div>
+
+				<div class="qui"> <!-- partie image de qui suis je -->
+					<img src="images2/image1.jpg">
+				</div>
+			</div>
+<!-- fin de la partie qui suis je-->
+
+
+		</div>
+
+    <!-- paralax 4 elem -->
+    <div class="parallax-element" data-parallax="scroll" data-image-src="images/para.png" alt="">
+
+      <div id="get-involved">
+       <div id="ico">
+         <div id="wrapper">
+           <ul id="menu">
+             <li><center><i class="fas fa-user fa-stack fa-inverse fa-5x"></i></i><br>
+               <font color="#d17261"><h3>STUDENTS</h3></font>
+         </p></li>
+         </center>
+       <li>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</li>
+               <li><center><i class="fas fa-pencil-alt fa-stack fa-inverse fa-5x"></i><br>
+                 <font color="#d17261"><h3>EDUCATORS</h3></font>
+               Want to bring this initiative to your<br>
+                school or institution? Awesome! Click<br>
+                 the button below and we'll make it<br>
+                  happen.
+                  <div class="button">
+                    <p>
+                      <a href="#">Join The Initiative »</a>
+                    </p>
+                  </div></li>
+                </center>
+       <li>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</li>
+               <li><center><i class="far fa-money-bill-alt fa-stack fa-inverse fa-5x"></i></i><br>
+                 <font color="#d17261"><h3>SPONSORS</h3></font>
+               We love all the support we get to help<br>
+                host more events, and empower more<br>
+                 lives with the knowledge of coding.<br>
+                  Click to get involved.
+                  <div class="button">
+                    <p>
+                      <a href="#">Give Support »</a>
+                    </p>
+                  </div></center></li>
+             </ul>
+           </div>
+           <br><br><br>
+         </div>
+         </div><!-- /#get-involved -->
+
+
+
+      </div>
+    <!-- Fin du paralax 4 elem -->
+
+<!-- FAKE CONTENU -->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!-- Fin du FAKE -->
 
 <br>
 
