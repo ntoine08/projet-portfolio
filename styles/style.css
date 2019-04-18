@@ -145,5 +145,16 @@ h3
   float: left;
   margin: auto; 
   padding: 5px;
-  border: 1px solid red;
+  border: 1px solid white;
+  width: 49%;
+  height: 49%;
+  display: block;
+  background-size: 100% auto;
+  text-align: center;
+}
+
+.qui img
+{
+  width: 100%;
+  height: auto;
 }
