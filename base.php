@@ -63,7 +63,7 @@
 
 		<!-- partie qui suis je-->
 
-		<div id="qui suis je">
+		<div id="qui-suis-je">
 			<h3>Qui suis je ?</h3> <!-- titre de la partie qui suis je -->
 
 			<div class="flex-container"> <!-- container de la partie qui suis je -->
