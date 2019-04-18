@@ -4,6 +4,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="styles/tips.css" type="text/css" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+  integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 </head>
 <html>
 <body>
@@ -38,7 +40,9 @@
     </div>
     <!-- Modal part -->
     <div class="pop-tips">
-      <div class="frame"></div>
+      <div class="frame">
+        <i id="close" class="fas fa-window-close fa-2x"></i>
+      </div>
     </div>
     <script type="text/javascript" src="styles/jquery.js"></script>
     <script type="text/javascript" src="styles/tips.js"></script>

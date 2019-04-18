@@ -1,3 +1,4 @@
+/* JS pour afficher les pop-ups */
 document.getElementById('item').addEventListener('click',
 function() {
   document.querySelector('.pop-tips').style.display = 'flex';
@@ -37,4 +38,10 @@ document.getElementById('item7').addEventListener('click',
 function() {
   document.querySelector('.pop-tips').style.display = 'flex';
   document.querySelector('.frame').style.display = 'flex';
+});
+/* JS pour refermer la pop-up */
+document.querySelector('#close').addEventListener('click',
+function() {
+  document.querySelector('.pop-tips').style.display = 'none';
+  document.querySelector('.frame').style.display = 'none';
 });

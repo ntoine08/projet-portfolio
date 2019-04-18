@@ -52,3 +52,15 @@ body {
   display: none;
   z-index: 51;
 }
+.fa-window-close
+{
+  position: absolute;
+  top: 2em;
+  right: 3em;
+}
+.fa-window-close:hover {
+  background-color: #FF0000;
+}
+.fa-window-close:active {
+  background-color: #fff;
+}
