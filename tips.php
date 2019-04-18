@@ -11,32 +11,31 @@
     <?php include 'header.php' ?>
   </div>
   <div class="gallerie">
-    <span class="item">
+    <span id="item">
       <img src="images/tips.png" alt="à définir"/>
     </span>
-    <span class="item">
+    <span id="item1">
       <img src="images/tips.png" alt="à définir"/>
     </span>
-    <span class="item">
+    <span id="item2">
       <img src="images/test.jpg" alt="à définir"/>
     </span>
-    <span class="item">
+    <span id="item3">
       <img src="images/tips.png" alt="à définir"/>
     </span>
-    <span class="item">
+    <span id="item4">
       <img src="images/tips.png" alt="à définir"/>
     </span>
-    <span class="item">
+    <span id="item5">
       <img src="images/tips.png" alt="à définir"/>
     </span>
-    <span class="item">
+    <span id="item6">
       <img src="images/tips.png" alt="à définir"/>
     </span>
-    <span class="item">
+    <span id="item7">
       <img src="images/tips.png" alt="à définir"/>
     </span>
     </div>
-    <input id="affiche" type="button" value="Afficher !!"/>
     <!-- Modal part -->
     <div class="pop-tips">
       <div class="frame"></div>
