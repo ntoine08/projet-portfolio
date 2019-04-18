@@ -1,12 +1,11 @@
-
+<link rel="stylesheet" href="styles/materialize.min.css">
 <link href="styles/header.css" rel="stylesheet" type="text/css"/>
 <script src="js/header.js" charset="utf-8"></script>
 
 <!--Barre nav avec images-->
-<ul>
    <div id="main">
           <nav id="nav">
-            <img src="images/blanc.png" width="80px" height="80px;">
+            <div class="img"><img src="images/blanc.png" width="80px" height="80px;"></div>
                <ul>
                     <li><a href="#">Acceuil</a></li>
                     <li><a href="#">Qui Suis Je ?</a></li>
@@ -16,4 +15,3 @@
               </ul>
          </nav>
    </div>
-</ul>
