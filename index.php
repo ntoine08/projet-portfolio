@@ -16,7 +16,7 @@
   </head>
 
 <?php include "header.php";?>
-  <body>
+  <body> 
 
         <!-- partie du slider-->
 		<div class="container">
