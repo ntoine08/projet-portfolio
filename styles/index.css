@@ -260,7 +260,8 @@ hr
       padding-left: 30px;
       min-height: 35px;
       background: transparent;
-
+      text-align: center;
+           }
     /* Fin de la parallax */
  }
 /* Fin de la section de Responsivité */
