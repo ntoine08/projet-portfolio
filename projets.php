@@ -11,9 +11,9 @@
 <body>
     <div id="main">
            <nav id="nav">
-             <div class="img"><img src="images/blanc.png" width="80px" height="80px;"></div>
+             <div class="img"><img src="images/blanc.png" style="width:70px; height:70px; margin-top: 0.3em;"></div>
                 <ul>
-                     <li><a href="index.php">Acceuil</a></li>
+                     <li><a href="index.php">Accueil</a></li>
                      <li><a href="tips.php">Mes Tips</a></li>
                 </ul>
           </nav>
