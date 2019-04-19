@@ -42,9 +42,8 @@
 					<div class="mySlides">
 							<div class="numbertext"></div>
 							<img src="images2/image4.jpg" style="width:100%">
-
 					</div>
-
+          <div id="Qui-suis-je?"></div>
     <script src="script.js"></script>
     <!-- Fin du slider -->
 
@@ -67,7 +66,7 @@
 		</div>
 
     <!-- paralax 4 elem -->
-    <div class="parallax-element" data-parallax="scroll" data-image-src="images/para.png" alt="">
+    <div class="parallax-element" data-parallax="scroll" data-image-src="images/para.png" alt="" id="par">
 
       <div id="get-involved">
        <div id="ico">
@@ -127,7 +126,7 @@
 <br>
 
 <!-- parallax "Mes projets" -->
-<div class="parallax-projet" data-parallax="scroll" data-image-src="images/para.png" alt="" >
+<div class="parallax-projet" data-parallax="scroll" data-image-src="images/para.png" alt="" id="projets">
   MES PROJETS</div>
   <!-- fin de parallax "Mes projets" -->
 

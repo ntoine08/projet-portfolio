@@ -9,7 +9,7 @@
                <ul>
                     <li><a href="#">Acceuil</a></li>
                     <li><a href="#Qui-suis-je?">Qui Suis Je ?</a></li>
-                    <li><a href="#parcour">Parcours</a></li>
+                    <li><a href="#par">Parcours</a></li>
                     <li><a href="#projets">Mes Projets</a></li>
                     <li><a href="#tips">Mes Tips</a></li>
               </ul>
