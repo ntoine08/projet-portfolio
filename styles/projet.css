@@ -22,7 +22,7 @@ body {
 
 nav{
     width: 100%;
-    height: 6em;
+    height: 5em;
     border: none;
     background-color: #000;
 }
@@ -35,9 +35,9 @@ nav ul{
 nav ul li{
           list-style-type: none;
           display: inline-block;
-          line-height: 6em;
+          line-height: 5em;
           transition: 0.8s all;
-          padding-right: 2em;
+          padding: 0 25px;
 }
 
 /*changement de couleur de fond au passage de la souris sur les liens*/
@@ -49,7 +49,6 @@ nav ul li a{
            text-decoration: none;
            color: #ffffff;
            opacity: 1;
-           padding-right: 2em;
            text-align: center;
 }
 
