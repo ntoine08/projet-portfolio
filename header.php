@@ -8,10 +8,10 @@
             <div class="img"><img src="images/blanc.png" width="80px" height="80px;"></div>
                <ul>
                     <li><a href="#">Acceuil</a></li>
-                    <li><a href="#">Qui Suis Je ?</a></li>
-                    <li><a href="#">Parcours</a></li>
-                    <li><a href="#">Mes Projets</a></li>
-                    <li><a href="#">Mes Tips</a></li>
+                    <li><a href="#Qui-suis-je?">Qui Suis Je ?</a></li>
+                    <li><a href="#parcour">Parcours</a></li>
+                    <li><a href="#projets">Mes Projets</a></li>
+                    <li><a href="#tips">Mes Tips</a></li>
               </ul>
          </nav>
    </div>

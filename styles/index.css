@@ -55,6 +55,15 @@ background-color: #f74c3c;
 /* Fin des parallax */
 
 /* Mise en forme des 8 screens de projets et tips */
+#proj1 img {
+  margin: 10px;
+  margin-top: 30px;
+}
+
+#proj1 {
+  margin-bottom: 10px;
+}
+
 #proj img {
   margin: 10px;
   margin-top: 30px;

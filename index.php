@@ -49,6 +49,7 @@
   					<a class="next" onclick="plusSlides(1)">&#10095;</a>
 
     <script src="script.js"></script>
+    <div id="Qui-suis-je?"></div>
 		</div>
     <!-- Fin du slider -->
 
@@ -71,7 +72,7 @@
 		</div>
 
     <!-- paralax 4 elem -->
-    <div class="parallax-element" data-parallax="scroll" data-image-src="images/para.png" alt="">
+    <div class="parallax-element" data-parallax="scroll" data-image-src="images/para.png" alt="" id="parcour">
 
       <div id="get-involved">
        <div id="ico">
@@ -102,13 +103,13 @@
 <br>
 
 <!-- parallax "Mes projets" -->
-<div class="parallax-projet" data-parallax="scroll" data-image-src="images/para.png" alt="">
+<div class="parallax-projet" data-parallax="scroll" data-image-src="images/para.png" alt="" id="projets">
   MES PROJETS</div>
   <!-- fin de parallax "Mes projets" -->
 
 <center>
   <!-- Début des 8 screens des projets accomplis -->
-  <div id="proj">
+  <div id="proj1">
   <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
   <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
   <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
@@ -130,7 +131,7 @@
 </div><br><br>
 
 <!-- Début parallax "Mes tips" -->
-<div class="parallax-tip" data-parallax="scroll" data-image-src="images/para.png" alt="">
+<div class="parallax-tip" data-parallax="scroll" data-image-src="images/para.png" alt="" id="tips">
 MES TIPS</div>
 <!-- Fin parallax "Mes tips" -->
 
