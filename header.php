@@ -5,9 +5,9 @@
 <!--Barre nav avec images-->
    <div id="main">
           <nav id="nav">
-            <div class="img"><img src="images/blanc.png" width="80px" height="80px;"></div>
+            <div class="img"><img src="images/blanc.png" style="width:70px; height:70px; margin-top: 0.1em;"></div>
                <ul>
-                    <li><a href="#">Acceuil</a></li>
+                    <li><a href="#">Accueil</a></li>
                     <li><a href="#Qui-suis-je?">Qui Suis Je ?</a></li>
                     <li><a href="#par">Parcours</a></li>
                     <li><a href="#projets">Mes Projets</a></li>
