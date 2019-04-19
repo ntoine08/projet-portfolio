@@ -6,7 +6,7 @@ body {
   margin: 0px;
   display: flex;
   flex-direction: column;
-  background-color: white;
+  background-color: lightgrey;
 }
 
 html, body {
@@ -242,7 +242,7 @@ hr
     background: transparent;
     text-align: center;
     padding-top: 10px;
-    padding-bottom: 50px;
+    padding-bottom: 5px;
     font-size: 30px;
    }
 
@@ -260,9 +260,7 @@ hr
       padding-left: 30px;
       min-height: 35px;
       background: transparent;
-      float: left;
-      text-align: center;
-     }
+
     /* Fin de la parallax */
  }
 /* Fin de la section de Responsivité */

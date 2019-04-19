@@ -67,7 +67,7 @@
 		</div>
 
     <!-- paralax 4 elem -->
-    <div class="parallax-element" data-parallax="scroll" data-image-src="images/para.png" alt="" id="parcour">
+    <div class="parallax-element" data-parallax="scroll" data-image-src="images/para.png" alt="">
 
       <div id="get-involved">
        <div id="ico">
@@ -95,16 +95,17 @@
 		</div>
 		<!-- fin de parcours-->
 
+
 <br>
 
 <!-- parallax "Mes projets" -->
-<div class="parallax-projet" data-parallax="scroll" data-image-src="images/para.png" alt="" id="projets">
+<div class="parallax-projet" data-parallax="scroll" data-image-src="images/para.png" alt="" >
   MES PROJETS</div>
   <!-- fin de parallax "Mes projets" -->
 
 <center>
   <!-- Début des 8 screens des projets accomplis -->
-  <div id="proj1">
+  <div id="proj">
   <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
   <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
   <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
