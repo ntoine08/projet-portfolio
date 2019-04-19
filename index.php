@@ -11,7 +11,8 @@
     <script src="https://cdn.jsdelivr.net/parallax.js/1.4.2/parallax.min.js"></script>
     <!-- Fin des liens pour parallax -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <title>TITRE</title>
+    <title>Porte-folio</title>
+     <link rel="shortcut icon" href="images/logosimplon.png">
   </head>
 
 <?php include "header.php";?>
