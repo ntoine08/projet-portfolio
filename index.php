@@ -123,7 +123,7 @@
   <br><br>
   <div class="bouton">
   <p>
-    <a href="#">ALL »</a>
+    <a href="projets.php">ALL »</a>
   </p>
 </div>
 <!-- Fin des screens des projets accomplis -->
@@ -150,7 +150,7 @@ MES TIPS</div>
   <br><br>
   <div class="bouton">
   <p>
-    <a href="#">ALL »</a>
+    <a href="tips.php">ALL »</a>
   </p>
 </div>
 </div>
