@@ -3,6 +3,7 @@ document.getElementById('item').addEventListener('click',
 function() {
   document.querySelector('.pop-tips').style.display = 'flex';
   document.querySelector('.frame').style.display = 'flex';
+  document.querySelector('#pop-tips').style.display = 'flex';
 });
 document.getElementById('item1').addEventListener('click',
 function() {

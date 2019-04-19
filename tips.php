@@ -45,11 +45,12 @@
     <div class="pop-tips">
       <div class="frame">
         <i id="close" class="fas fa-window-close fa-2x"></i>
+        <img id="pop-tips" src="images/pop-tips.png" alt="image présentant le tips"/>
       </div>
     </div>
     <script type="text/javascript" src="styles/jquery.js"></script>
     <script type="text/javascript" src="styles/tips.js"></script>
-</body> 
+</body>
 <footer>
   <?php include 'footer.php' ?>
   <?php include 'footer2.php' ?>

@@ -96,6 +96,13 @@ nav ul li a{
   display: none;
   z-index: 50;
 }
+#pop-tips /*image*/{
+  display: none;
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  z-index: 52;
+}
 .frame {
   position: absolute;
   width: 85%;
