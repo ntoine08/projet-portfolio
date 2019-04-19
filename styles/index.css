@@ -6,7 +6,7 @@ body {
   margin: 0px;
   display: flex;
   flex-direction: column;
-  background-color: lightgrey;
+  background-color: white;
 }
 
 html, body {
@@ -55,15 +55,6 @@ background-color: #f74c3c;
 /* Fin des parallax */
 
 /* Mise en forme des 8 screens de projets et tips */
-#proj1 img {
-  margin: 10px;
-  margin-top: 30px;
-}
-
-#proj1 {
-  margin-bottom: 10px;
-}
-
 #proj img {
   margin: 10px;
   margin-top: 30px;
@@ -204,24 +195,39 @@ h3
   border: 2px solid red;
 }
 
-h4
+#parcours h4
 {
   text-align: center;
   font-size: 40px;
+  text-decoration: underline red;
 
 }
 
-h5
+#parcours h5
 {
   text-align: center;
   font-size: 30px;
+  text-decoration: underline red;
 }
 
-hr
+#parcours hr
 {
   height: 3px;
   border-color: red;
   background-color: red;
+}
+
+#parcours ul
+{
+  list-style-type: none; /* retiré les points de la listes */
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* pour que les listes se place les une à côté des autres */
+  padding-left: 20px; /* pour espacer les listes les unes des autres */
+  padding-right: 100px; /* pour espacer les listes les unes des autres */
+  font-size: 20px;
+  font-weight: bold;
+  display: inline-block;
 }
 /* fin de la partie parcours */
 

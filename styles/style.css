@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-  }  
+  }
 
 body
 {
@@ -9,7 +9,7 @@ body
     flex-direction: column;
 }
 
-.mySlides 
+.mySlides
   {
     display: none;
   }
@@ -19,7 +19,7 @@ img
   vertical-align: middle;
 }
 
-html, body 
+html, body
 {
     height: 100%;
     padding: 0;
@@ -53,19 +53,19 @@ html, body
 
 /* css du slide*/
 
-.container 
+.container
  {
-    position: relative;  
+    position: relative;
  }
 
-.mySlides 
+.mySlides
   {
     display: none;
   }
 
   /* animation du slide*/
 
-  .fade 
+  .fade
   {
     -webkit-animation-name: fade;
     -webkit-animation-duration: 1.5s;
@@ -73,15 +73,15 @@ html, body
     animation-duration: 1.5s;
   }
 
-  @-webkit-keyframes fade 
+  @-webkit-keyframes fade
   {
-    from {opacity: .4} 
+    from {opacity: .4}
     to {opacity: 1}
   }
-  
-  @keyframes fade 
+
+  @keyframes fade
   {
-    from {opacity: .4} 
+    from {opacity: .4}
     to {opacity: 1}
   }
 
@@ -92,7 +92,7 @@ html, body
   position: relative;
   margin: 10px;
   padding: 30px;
-  
+
 }
 
 h3
@@ -100,7 +100,7 @@ h3
   text-align: center;
   font-size: 30px;
   text-decoration: underline red;
-  
+
 }
 
 .flex-container
@@ -111,10 +111,10 @@ h3
 
  .qui
 {
- 
+
   position: relative;
   float: left;
-  margin: auto; 
+  margin: auto;
   padding: 5px;
   border: 1px solid white;
   width: 49%;
@@ -145,7 +145,7 @@ h4
   text-align: center;
   font-size: 40px;
   text-decoration: underline red;
-  
+
 }
 
 h5
