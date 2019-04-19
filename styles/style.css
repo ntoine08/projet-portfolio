@@ -144,6 +144,7 @@ h4
 {
   text-align: center;
   font-size: 40px;
+  text-decoration: underline red;
   
 }
 
@@ -151,6 +152,7 @@ h5
 {
   text-align: center;
   font-size: 30px;
+  text-decoration: underline red;
 }
 
 hr
@@ -158,4 +160,17 @@ hr
   height: 3px;
   border-color: red;
   background-color: red;
+}
+
+#parcours ul
+{
+  list-style-type: none; /* retiré les points de la listes */
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: left; /* pour que les listes se place les une à côté des autres */
+  padding-left: 20px; /* pour espacer les listes les unes des autres */
+  padding-right: 100px; /* pour espacer les listes les unes des autres */
+  font-size: 20px;
+  font-weight: bold;
 }
