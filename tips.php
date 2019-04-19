@@ -9,8 +9,14 @@
 </head>
 <html>
 <body>
-  <div class="header">
-    <?php include 'header.php' ?>
+  <div id="main">
+         <nav id="nav">
+           <div class="img"><img src="images/blanc.png" width="80px" height="80px;"></div>
+              <ul>
+                   <li><a href="index.php">Acceuil</a></li>
+                   <li><a href="projets.php">Mes Projets</a></li>
+              </ul>
+        </nav>
   </div>
   <div class="block">
 

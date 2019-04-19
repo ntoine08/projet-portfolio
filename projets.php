@@ -9,7 +9,6 @@
 </head>
 <html>
 <body>
-  <div class="header">
     <div id="main">
            <nav id="nav">
              <div class="img"><img src="images/blanc.png" width="80px" height="80px;"></div>
@@ -19,7 +18,6 @@
                 </ul>
           </nav>
     </div>
-  </div>
   <div class="block">
   </div>
   <div class="gallerie">
