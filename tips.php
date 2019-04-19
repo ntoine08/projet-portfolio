@@ -9,16 +9,9 @@
 </head>
 <html>
 <body>
-
-    <div id="main">
-           <nav id="nav">
-             <div class="img"><img src="images/blanc.png" width="80px" height="80px;"></div>
-                <ul>
-                     <li><a href="#">Acceuil</a></li>
-                </ul>
-          </nav>
-    </div>
-
+  <div class="header">
+    <?php include 'header.php' ?>
+  </div>
   <div class="block">
 
   </div>
@@ -56,7 +49,7 @@
     </div>
     <script type="text/javascript" src="styles/jquery.js"></script>
     <script type="text/javascript" src="styles/tips.js"></script>
-</body>
+</body> 
 <footer>
   <?php include 'footer.php' ?>
   <?php include 'footer2.php' ?>

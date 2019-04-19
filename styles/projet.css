@@ -2,10 +2,10 @@
   margin: 0;
   padding: 0;
 }
-.header {
-  width: 100%;
-  height: 10em;
+body {
+  text-align: center;
 }
+
 #main{
       width: 100%;
       background-size: cover;
@@ -52,6 +52,7 @@ nav ul li a{
            padding-right: 2em;
            text-align: center;
 }
+
 .block{
   height: 80px;
   width: 100%;
@@ -66,10 +67,50 @@ nav ul li a{
   margin-top: 1em;
   margin-bottom: 1em;
 }
-.item {
+#item, #item1, #item2, #item3, #item4, #item5, #item6, #item7 {
   border: 0.5em solid #000;
   margin: 1em 1em;
   width: 20em;
-  height: 12em;
+  height: 20em;
   overflow: scroll;
+}
+#affiche {
+  margin-bottom: 3em;
+}
+/* Css de la pop up des tips */
+.pop-tips {
+  position: absolute;
+  width: 100%;
+  height: 250%;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+  justify-content: center;
+  align-items: center;
+  display: none;
+  z-index: 50;
+}
+.frame {
+  position: absolute;
+  width: 85%;
+  height: 50%;
+  top: 10em;
+  left: 6.2em;
+  background-color: #fff;
+  border-radius: 5%;
+  justify-content: center;
+  align-items: center;
+  display: none;
+  z-index: 51;
+}
+.fa-window-close
+{
+  position: absolute;
+  top: 2em;
+  right: 3em;
+}
+.fa-window-close:hover {
+  background-color: #FF0000;
+}
+.fa-window-close:active {
+  background-color: #fff;
 }
