@@ -10,3 +10,12 @@ $(document).ready(function(){
       }
     });
 });
+
+function myFunction() {
+  var x = document.getElementById("main");
+  if (x.className === "main") {
+    x.className += " responsive";
+  } else {
+    x.className = "main";
+  }
+}

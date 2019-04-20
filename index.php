@@ -14,8 +14,7 @@
     <title>Porte-folio</title>
      <link rel="shortcut icon" href="images/logosimplon.png">
   </head>
-
-<?php include "header.php";?>
+       <?php include "header.php";?>
   <body>
 
         <!-- partie du slider-->
