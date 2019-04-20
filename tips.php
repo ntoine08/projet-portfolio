@@ -52,6 +52,24 @@
       <div class="frame">
         <i id="close" class="fas fa-window-close fa-2x"></i>
         <img id="pop-tips" src="images/pop-tips.png" alt="image présentant le tips"/>
+        <div id="texte-tips">
+          <p>Cette partie présentera le tips en explicitant son contenu. Blablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          </p>
+        </div>
+        <div class="links">
+          <a href="#"><button class="button-tips">Redirection</button></a>
+          <a href="https://github.com/ntoine08/projet-portfolio.git"><button class="button-tips">Git</button></a>
+        </div>
       </div>
     </div>
     <script type="text/javascript" src="styles/jquery.js"></script>

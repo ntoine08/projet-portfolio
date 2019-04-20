@@ -79,8 +79,9 @@ nav ul li a{
   margin-bottom: 3em;
 }
 /* Css de la pop up des tips */
-.pop-tips {
+.pop-tips /*fond noir transparent*/ {
   position: absolute;
+  text-align: center;
   width: 100%;
   height: 250%;
   top: 0;
@@ -90,14 +91,7 @@ nav ul li a{
   display: none;
   z-index: 50;
 }
-#pop-tips /*image*/{
-  display: none;
-  width: 50%;
-  height: 50%;
-  position: absolute;
-  z-index: 52;
-}
-.frame {
+.frame /* cadre blanc de la pop-up*/ {
   position: absolute;
   width: 85%;
   height: 50%;
@@ -105,20 +99,48 @@ nav ul li a{
   left: 6.2em;
   background-color: #fff;
   border-radius: 5%;
-  justify-content: center;
-  align-items: center;
   display: none;
   z-index: 51;
 }
-.fa-window-close
-{
+#pop-tips /*image*/{
+  position: absolute;
+  top: 3em;
+  left: 25em;
+  width: 30em;
+  height: 20em;
+  z-index: 52;
+}
+#texte-tips /*paragraphe texte*/{
+  text-align: center;
+  margin-top: 26em;
+  margin-left: 20.5em;
+  z-index: 52;
+}
+.links /*div contenant liens*/{
+  position: absolute;
+  text-align: center;
+  margin-top: 45em;
+  margin-left: 33em;
+  z-index: 52;
+}
+.button-tips /*boutons des liens*/{
+  background-color: #000;
+  color: #fff;
+  margin: 1em;
+  padding: 0.5em;
+  border-radius: 15%;
+}
+.button-tips:hover /*au survol*/{
+  text-shadow: 0px 0px 5px #fff;
+}
+.fa-window-close /*quitter la pop-up*/{
   position: absolute;
   top: 2em;
   right: 3em;
 }
-.fa-window-close:hover {
+.fa-window-close:hover/*au survol*/ {
   background-color: #FF0000;
 }
-.fa-window-close:active {
+.fa-window-close:active /*au clic*/ {
   background-color: #fff;
 }
