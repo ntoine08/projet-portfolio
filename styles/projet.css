@@ -78,7 +78,7 @@ nav ul li a{
 #affiche {
   margin-bottom: 3em;
 }
-/* Css de la pop up des tips */
+/* Css de la pop up des projets */
 .pop-tips {
   position: absolute;
   width: 100%;
@@ -98,10 +98,39 @@ nav ul li a{
   left: 6.2em;
   background-color: #fff;
   border-radius: 5%;
-  justify-content: center;
-  align-items: center;
   display: none;
   z-index: 51;
+}
+#pop-projet /*image*/{
+  position: absolute;
+  top: 8em;
+  right: 3em;
+  width: 20em;
+  height: 35em;
+  z-index: 52;
+}
+#texte-projet /*paragraphe texte*/{
+  text-align: center;
+  margin-top: 8em;
+  margin-left: 4em;
+  z-index: 52;
+}
+.links /*div contenant liens*/{
+  position: absolute;
+  text-align: center;
+  margin-top: 40em;
+  margin-left: 18em;
+  z-index: 52;
+}
+.button-projet /*boutons des liens*/{
+  background-color: #000;
+  color: #fff;
+  margin: 1em;
+  padding: 0.5em;
+  border-radius: 15%;
+}
+.button-projet:hover /*au survol*/{
+  text-shadow: 0px 0px 5px #FF0000, 0px 0px 5px #FF0000, 0px 0px 5px #FF0000;
 }
 .fa-window-close
 {
@@ -114,4 +143,33 @@ nav ul li a{
 }
 .fa-window-close:active {
   background-color: #fff;
+}
+/*Média queries */
+@media (max-width: 767px) {
+  /* Css de la pop up des projets */
+  .pop-tips {
+    height: 755%;
+  }
+  .frame {
+    width: 85%;
+    height: 35%;
+    top: 10em;
+    left: 3.3em;
+  }
+  #pop-projet /*image*/{
+    top: 6em;
+    right: 8em;
+    width: 20em;
+    height: 35em;
+    z-index: 52;
+  }
+  #texte-projet /*paragraphe texte*/{
+    margin-top: 45em;
+    margin-left: 2em;
+    font-size: 95%;
+  }
+  .links /*div contenant liens*/{
+    margin-top: 68em;
+    margin-left: 13em;
+  }
 }

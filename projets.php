@@ -50,6 +50,34 @@
     <div class="pop-tips">
       <div class="frame">
         <i id="close" class="fas fa-window-close fa-2x"></i>
+        <img id="pop-projet" src="images/pop-projet.png" alt="image présentant le projet"/>
+        <div id="texte-projet">
+          <p>Cette partie présentera le tips en explicitant son contenu. Blablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          blablablablablablablablablablablablablablablablablablablablablablablablablablablabla<br/>
+          </p>
+        </div>
+        <div class="links">
+          <a href="#"><button class="button-projet">Redirection</button></a>
+          <a href="https://github.com/ntoine08/projet-portfolio.git"><button class="button-projet">Git</button></a>
+        </div>
       </div>
     </div>
     <script type="text/javascript" src="styles/jquery.js"></script>
