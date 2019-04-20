@@ -16,7 +16,7 @@
   </head>
 
 <?php include "header.php";?>
-  <body> 
+  <body>
 
         <!-- partie du slider-->
 		<div class="container">
@@ -133,16 +133,16 @@
 <center>
   <!-- Début des 8 screens des projets accomplis -->
   <div id="proj">
-  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/projet.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/projet.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/projet.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/projet.png" width="20%" height="200px"></a>
   <br>
 
-  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
-  <a href="#"><img src="images/aa_auto.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/projet.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/projet.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/projet.png" width="20%" height="200px"></a>
+  <a href="#"><img src="images/projet.png" width="20%" height="200px"></a>
   <br><br>
   <div class="bouton">
   <p>
