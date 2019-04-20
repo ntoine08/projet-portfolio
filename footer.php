@@ -15,7 +15,7 @@
           <img class="présentation" src="images/simplonpolyblanc.png" alt="logo de simplon"
           width="250em" height="200em"/>
       </div>
-    </div>
+    </div>  
     <div class="contact">
       <form>
         <h1 id="shadow">Nous contacter</h1>
