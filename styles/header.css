@@ -113,6 +113,7 @@ nav ul li a{
       transform: y();
      }
 }
-.active{
+ul .active{
   display: block;
+  transform: translatey(0);
 }

@@ -1,7 +1,4 @@
-$(document).ready(function(){
-  $('.menu').click(function(){
-    $('ul').mainClass('active')
-
-
-  })
-})
+$('.icon').click(function(e){
+        e.preventDefault();
+        $('ul').toggleClass('active');
+    })
