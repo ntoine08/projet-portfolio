@@ -79,7 +79,7 @@ nav ul li a{
 }
 .active{
   display: block;
-  transform: translatey();
+
 }
 @media (max-width: 850px){
      .icon{
@@ -97,7 +97,7 @@ nav ul li a{
 }
 .active{
   display: block;
-  transform: y();
+
 }
 @media (max-width: 450px){
      .icon{
@@ -111,11 +111,12 @@ nav ul li a{
       ul li{
       display: block;
       text-align:center;
-      transform: y();
+
      }
 }
 .active{
   display: block;
+
 }
 
 .block{
