@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="styles/projet.css" type="text/css" rel="stylesheet"/>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+  <link rel="stylesheet" href="styles/materialize.min.css">
 </head>
 <html>
 <body>
@@ -84,6 +85,7 @@
     </div>
     <script type="text/javascript" src="styles/jquery.js"></script>
     <script type="text/javascript" src="styles/tips.js"></script>
+    <script type="text/javascript" src="js/header-tips-projets.js"></script>
 </body>
 <footer>
   <?php include 'footer.php' ?>

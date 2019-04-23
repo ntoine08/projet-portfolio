@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="styles/tips.css" type="text/css" rel="stylesheet"/>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
-  <script type="text/javascript" src="js/header-tips-projets.js">
+  <script type="text/javascript" src="js/header-tips-projets.js"></script>
+  <link rel="stylesheet" href="styles/materialize.min.css">
 
   </script>
 </head>
