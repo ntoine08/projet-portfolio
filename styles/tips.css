@@ -79,7 +79,7 @@ nav ul li a{
 }
 .active{
   display: block;
-  transform: y();
+  transform: translatey();
 }
 @media (max-width: 850px){
      .icon{
