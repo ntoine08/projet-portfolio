@@ -52,12 +52,6 @@
 			<img src="images2/image4.jpg" style="width:100%">
 
 		</div>
-
-		
-
-
-
-
 	</div>
 		
 	<!-- partie qui suis je-->
@@ -80,11 +74,7 @@
 				<!-- partie image de qui suis je -->
 				<img src="images2/image1.jpg">
 			</div>
-
 		</div>
-
-
-
 	</div>
 
 	<!-- paralax-->
@@ -120,10 +110,48 @@
 			<li>NEW-YORK</li>
 			<li>PARIS</li>
 			<li>ROME</li>
-		</ul>
-
-		
+		</ul>		
 	</div>
+
+		<!-- The Timeline -->
+
+<ul class="timeline">
+
+<!-- Item 1 -->
+<li>
+	<div class="direction-r"> <!-- première colonne-->
+		<div class="flag-wrapper">
+			<span class="flag">INTERNATIONAL CODE</span>
+			<span class="time-wrapper"><span class="time">21/03/2018 au 09/01/2019</span></span>
+		</div>
+		<div class="desc">J'ai crée des sites pour des entreprise multinationales</div>
+	</div>
+</li>
+
+<!-- Item 2 -->
+<li>
+	<div class="direction-l">
+		<div class="flag-wrapper">
+			<span class="flag">LE CODE DU 18 BRUMAIRE</span>
+			<span class="time-wrapper"><span class="time">06/04/2016 au 10/03/2018</span></span>
+		</div>
+		<div class="desc">Dans cet entreprise j'ai crée des sites pour des gouvernements révolutionnaires</div>
+	</div>
+</li>
+
+<!-- Item 3 -->
+<li>
+	<div class="direction-r">
+		<div class="flag-wrapper">
+			<span class="flag">CODE DOMINUM</span>
+			<span class="time-wrapper"><span class="time">19/07/2014 au 02/04/2016</span></span>
+		</div>
+		<div class="desc">Dans cette entreprise j'ai coder des sites pour des grands restaurants à ROME.</div>
+	</div>
+</li>
+
+</ul>
+
 
 	<!-- mes projets-->
 
