@@ -154,7 +154,7 @@ nav ul li a{
     width: 85%;
     height: 35%;
     top: 10em;
-    left: 3.3em;
+    left: 3.3emem;
   }
   #pop-projet /*image*/{
     top: 6em;
@@ -171,5 +171,38 @@ nav ul li a{
   .links /*div contenant liens*/{
     margin-top: 68em;
     margin-left: 13em;
+  }
+}
+@media (max-width: 400px) {
+  /* Css de la pop up des projets */
+  .pop-tips {
+    height: 755%;
+  }
+  .frame {
+    width: 85%;
+    height: 29%;
+    top: 5em;
+    left: 1.9em;
+  }
+  #pop-projet /*image*/{
+    top: 6em;
+    left: 3.3em;
+    width: 15em;
+    height: 35em;
+    z-index: 52;
+  }
+  #texte-projet /*paragraphe texte*/{
+    margin-top: 75.7em;
+    margin-left: 0.2em;
+    font-size: 55%;
+  }
+  .links /*div contenant liens*/{
+    margin-top: 55em;
+    margin-left: 6em;
+  }
+  .fa-window-close
+  {
+    top: 1em;
+    right: 1em;
   }
 }
