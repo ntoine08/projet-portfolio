@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-  }  
+  }
 
 body
 {
@@ -9,7 +9,7 @@ body
     flex-direction: column;
 }
 
-.mySlides 
+.mySlides
   {
     display: none;
   }
@@ -19,7 +19,7 @@ img
   vertical-align: middle;
 }
 
-html, body 
+html, body
 {
     height: 100%;
     padding: 0;
@@ -53,19 +53,19 @@ html, body
 
 /* css du slide*/
 
-.container 
+.container
  {
-    position: relative;  
+    position: relative;
  }
 
-.mySlides 
+.mySlides
   {
     display: none;
   }
 
   /* animation du slide*/
 
-  .fade 
+  .fade
   {
     -webkit-animation-name: fade;
     -webkit-animation-duration: 1.5s;
@@ -73,15 +73,15 @@ html, body
     animation-duration: 1.5s;
   }
 
-  @-webkit-keyframes fade 
+  @-webkit-keyframes fade
   {
-    from {opacity: .4} 
+    from {opacity: .4}
     to {opacity: 1}
   }
-  
-  @keyframes fade 
+
+  @keyframes fade
   {
-    from {opacity: .4} 
+    from {opacity: .4}
     to {opacity: 1}
   }
 
@@ -92,7 +92,7 @@ html, body
   position: relative;
   margin: 10px;
   padding: 30px;
-  
+
 }
 
 h3
@@ -100,7 +100,7 @@ h3
   text-align: center;
   font-size: 30px;
   text-decoration: underline red;
-  
+
 }
 
 .flex-container
@@ -111,10 +111,10 @@ h3
 
  .qui
 {
- 
+
   position: relative;
   float: left;
-  margin: auto; 
+  margin: auto;
   padding: 5px;
   border: 1px solid white;
   width: 49%;
@@ -145,7 +145,7 @@ h4
   text-align: center;
   font-size: 40px;
   text-decoration: underline red;
-  
+
 }
 
 h5
@@ -162,18 +162,18 @@ hr
   background-color: red;
 }
 
-#parcours ul
+/* #parcours ul
 {
-  list-style-type: none; /* retiré les points de la listes */
+  list-style-type: none; -- retiré les points de la listes --
   margin: 0;
   padding: 0;
   overflow: hidden;
-  float: left; /* pour que les listes se place les une à côté des autres */
-  padding-left: 20px; /* pour espacer les listes les unes des autres */
-  padding-right: 100px; /* pour espacer les listes les unes des autres */
+  float: left; -- pour que les listes se place les une à côté des autres --
+  padding-left: 20px; -- pour espacer les listes les unes des autres --
+  padding-right: 100px; -- pour espacer les listes les unes des autres --
   font-size: 20px;
   font-weight: bold;
-}
+} */
 
 
 
@@ -205,7 +205,7 @@ hr
   background: -o-linear-gradient(top, rgba(80,80,80,0) 0%, rgb(80,80,80) 8%, rgb(80,80,80) 92%, rgba(80,80,80,0) 100%);
   background: -ms-linear-gradient(top, rgba(80,80,80,0) 0%, rgb(80,80,80) 8%, rgb(80,80,80) 92%, rgba(80,80,80,0) 100%);
   background: linear-gradient(to bottom, rgba(80,80,80,0) 0%, rgb(80,80,80) 8%, rgb(80,80,80) 92%, rgba(80,80,80,0) 100%);
-  
+
   z-index: 5;
 }
 
@@ -237,7 +237,7 @@ hr
 .flag-wrapper {
   position: relative;
   display: inline-block;
-  
+
   text-align: center;
 }
 
@@ -247,7 +247,7 @@ hr
   background: rgb(248,248,248);
   padding: 6px 10px;
   border-radius: 5px;
-  
+
   font-weight: 600;
   text-align: left;
 }
@@ -314,7 +314,7 @@ hr
 
 .time-wrapper {
   display: inline;
-  
+
   line-height: 1em;
   font-size: 0.66666em;
   color: rgb(250,80,80);
@@ -337,7 +337,7 @@ hr
 
 .desc {
   margin: 1em 0.75em 0 0;
-  
+
   font-size: 0.77777em;
   font-style: italic;
   line-height: 1.5em;
@@ -431,7 +431,7 @@ hr
 	-webkit-box-shadow: 0 0 1px rgba(0,0,0,0.20);
 	-moz-box-shadow: 0 0 1px rgba(0,0,0,0.20);
 	box-shadow: 0 0 1px rgba(0,0,0,0.20);
-	
+
   z-index: 15;
 }
 
@@ -440,7 +440,7 @@ hr
 	position: relative;
 	margin: 1em 1em 0 1em;
 	padding: 1em;
-	
+
   z-index: 15;
 }
 

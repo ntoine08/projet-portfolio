@@ -53,7 +53,7 @@
 
 		</div>
 	</div>
-		
+
 	<!-- partie qui suis je-->
 
 	<div id="qui-suis-je">
@@ -87,31 +87,31 @@
 		<!--mettre le trait-->
 		<h5>TIMELINE</h5>
 		<!--titre timeline-->
-		
-		<ul> <!-- liste dates-->
+
+ <!--
+		<ul> -- liste dates --
 			<li>21/03/2018 au 09/01/2019</li>
 			<li>06/04/2016 au 10/03/2018</li>
-			<li>19/07/2014 au 02/04/2016</li>		
+			<li>19/07/2014 au 02/04/2016</li>
 		</ul>
 
-		<ul> <!-- liste postes -->
+		<ul> -- liste postes --
 			<li>développeur WEB</li>
 			<li>développeur WEB</li>
 			<li>développeur WEB</li>
 		</ul>
 
-		<ul> <!-- liste entreprise -->
+		<ul> -- liste entreprise --
 			<li>INTERNATIONAL CODE</li>
 			<li>LE CODE DU 18 BRUMAIRE</li>
 			<li>CODE DOMINUM</li>
 		</ul>
 
-		<ul> <!-- liste villes -->
+		<ul> -- liste villes --
 			<li>NEW-YORK</li>
 			<li>PARIS</li>
 			<li>ROME</li>
-		</ul>		
-	</div>
+		</ul> -->
 
 		<!-- The Timeline -->
 
@@ -151,6 +151,9 @@
 </li>
 
 </ul>
+	</div>
+
+
 
 
 	<!-- mes projets-->
