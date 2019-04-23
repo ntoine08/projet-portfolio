@@ -11,11 +11,10 @@ $(document).ready(function(){
     });
 });
 
-function myFunction() {
-  var x = document.getElementById("main");
-  if (x.className === "main") {
-    x.className += " responsive";
-  } else {
-    x.className = "main";
-  }
-}
+$(document).ready(function(){
+  $('.menu').click(function(){
+    $('ul').mainClass('active')
+
+
+  })
+})
