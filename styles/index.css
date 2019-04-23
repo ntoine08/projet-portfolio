@@ -278,7 +278,7 @@ h3
   list-style: none;
   float: left;
   /*position: relative;*/
-  /*display: block !important;*/
+  display: block !important;
 }
 
 #menu {
