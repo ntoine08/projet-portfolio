@@ -295,4 +295,5 @@ h3
   min-height: 30vh;
   background: transparent;
   text-align: center;
+  display: block !important;
  }

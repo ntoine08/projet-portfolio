@@ -144,3 +144,66 @@ nav ul li a{
 .fa-window-close:active /*au clic*/ {
   background-color: #fff;
 }
+.icon{
+  width: 100%;
+  padding: 15px 20px;
+  text-align: right;
+  box-sizing: border-box;
+  color: white;
+  font-size: 2em;
+  display: none;
+}
+@media (max-width: 1150px){
+     .icon{
+     display: block;
+    }
+
+      ul{
+      width: 75%;
+      display:none;
+     }
+      ul li{
+      display: block;
+      text-align:center;
+     }
+}
+.active{
+  display: block;
+  transform: y();
+}
+@media (max-width: 850px){
+     .icon{
+     display: block;
+    }
+
+      ul{
+      width: 75%;
+      display:none;
+     }
+      ul li{
+      display: block;
+      text-align:center;
+     }
+}
+.active{
+  display: block;
+  transform: y();
+}
+@media (max-width: 450px){
+     .icon{
+     display: block;
+    }
+
+      ul{
+      width: 75%;
+      display:none;
+     }
+      ul li{
+      display: block;
+      text-align:center;
+      transform: y();
+     }
+}
+.active{
+  display: block;
+}
