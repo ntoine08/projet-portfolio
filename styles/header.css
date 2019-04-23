@@ -26,7 +26,7 @@ nav{
     height: 5em;
     line-height: 56px !important;
     border: none;
-    background-color: #000 !important;
+    background-color: #0001 !important;
 }
 /*positionnement des liens ainsi que la transition lorsque la souris passe dessus*/
 nav ul{
