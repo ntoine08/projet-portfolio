@@ -4,14 +4,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="styles/projet.css" type="text/css" rel="stylesheet"/>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
-  integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 </head>
 <html>
 <body>
     <div id="main">
            <nav id="nav">
              <div class="img"><img src="images/blanc.png" style="width:70px; height:70px; margin-top: 0.3em;"></div>
+             <div class="icon">
+             <i class="fas fa-bars menu"></i>
+             </div>
                 <ul>
                      <li><a href="index.php">Accueil</a></li>
                      <li><a href="tips.php">Mes Tips</a></li>
